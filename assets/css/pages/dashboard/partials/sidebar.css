@@ -1,0 +1,10 @@
+.sidebar-menu {
+    height: 100vh;
+    background: #e2aac6;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
